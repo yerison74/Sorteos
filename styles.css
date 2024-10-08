@@ -133,13 +133,13 @@ li button:hover {
 }
 
 #clearContest {
-    background: linear-gradient(to right, #D1D5DB, #9CA3AF);
-    color: #1F2937;
+    background: linear-gradient(to right, #6366F1, #EC4899);
+    color: white;
 }
 
 #clearContest:hover {
-    background: linear-gradient(to right, #9CA3AF, #6B7280);
-    transform: translateY(-2px);
+    background: linear-gradient(to right, #6366F1, #EC4899);
+    color: white;
 }
 
 #winnerSection {
